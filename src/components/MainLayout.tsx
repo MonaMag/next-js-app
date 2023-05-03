@@ -36,7 +36,7 @@ export default function MainLayout({children, title}: React.PropsWithChildren<{ 
             
             main {
             margin-top: 60px;
-            padding: 1rem;
+            padding: 20px;
             }
             `}</style>
         </>
